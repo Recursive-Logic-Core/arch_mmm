@@ -2,6 +2,10 @@
 
 > **AI Systems Analyst | LLM Context Architecture & Control Layers**
 
+![Operational Collapse vs Logical Fortress](./How_AI_are_used_E.png)
+
+> **Visualizing the Shift:** From chaotic, unmanaged context overflow (*Operational Collapse*) to deterministic, structured control layers (*Logical Fortress*).
+
 ---
 
 ## Executive Summary
