@@ -23,6 +23,9 @@ Architect M.M.M. is an independent structural research and architecture core ded
     *   `02-konsistenz-analyse.md` — Maintaining rigorous logical integrity over massive, multi-document token spans.
     *   `03-halluzinationen-analyse.md` — Isolation and elimination of drift and speculative outputs.
     *   `04-kontextverlust-analyse.md` — Prevention of information degradation under heavy context load.
+    *   `05-needle-in-a-haystack-analyse.md` — Systemic prevention of retrieval blindness and attention collapse in unstructured data.
+    *   `06-gefaelligkeits-verzerrung-analyse.md` — Elimination of sycophancy and uncritical validation in LLM evaluations.
+    *   `07-prompt-injection-analyse.md` — Enforcing rigid channel separation against instruction overrides and context hijacking.
 
 *   **[Recursive-Logic-Core / system-analysis](https://github.com/Recursive-Logic-Core/system-analysis)**
     *   Forensic decoding and complex pattern recognition across rigorous historical and structural anomalies (including Rongorongo, Dorabella, Kryptos K5, Voynich, Phaistos, Beale, Somerton Man, and Shugborough). Proving advanced capability in extracting signal from extreme cryptographic and informational fragmentation.
