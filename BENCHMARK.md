@@ -17,6 +17,8 @@ The benchmark evaluated real-time collaborative reasoning between a human operat
 | **Microsoft Azure** | **97th Percentile** *(Top 3%)* | Verified Result | `07:58 min` |
 | **English B2 (Upper Intermediate)** | **96th Percentile** *(Top 4%)* | Verified Result | `11:54 min` |
 
+![TestGorilla Verified Benchmark Results](Benchmark.png)
+
 *Validity Window: August 2026 – August 2028 (Platform Verified).*
 
 ---
