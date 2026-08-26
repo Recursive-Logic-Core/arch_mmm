@@ -16,7 +16,7 @@ Architect M.M.M. is an independent structural research and architecture core ded
 
 ---
 
-## Core Architecture Repositories
+## Architectural Frameworks & Implementations
 
 
 
