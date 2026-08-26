@@ -18,8 +18,6 @@ Architect M.M.M. is an independent structural research and architecture core ded
 
 ## Core Architecture Repositories
 
-## Core Architecture Repositories
-
 
 
 *   **[Recursive-Logic-Core / llm-context-architecture](https://github.com/Recursive-Logic-Core/llm-context-architecture)**
