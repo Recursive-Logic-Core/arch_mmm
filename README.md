@@ -46,6 +46,10 @@ Architect M.M.M. is an independent structural research and architecture core ded
 
 *   **[Recursive-Logic-Core / DriftBreak](https://github.com/Recursive-Logic-Core/DriftBreak)**
     *   `v1.4.0-GOVERNOR` — Proof-of-Execution: Standalone local VRAM governor & state-recovery engine mitigating context drift on `127.0.0.1`.
+ 
+
+*   **[Recursive-Logic-Core / SLAP](https://github.com/Recursive-Logic-Core/SLAP)**
+    * `v1.0.0-CORE` — Deterministic, zero-overhead context serialization & line-based tree-state protocol operating in pure $O(N)$ single-pass execution.
 
 ---
 
