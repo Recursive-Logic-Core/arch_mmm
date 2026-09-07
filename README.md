@@ -67,7 +67,8 @@ Designed specifically for **Enterprise Engineering Teams, AI Evaluation Labs, an
 
 ---
 
-## Contact & Direct Access
+### Contact & Inquiries
+Open for 100% Remote Full-Time Employment (FTE via EOR / Germany-compliant) in AI Systems Architecture, Core Logic & Verification Layers.
 
-*   **Hacker News:** `ArchMMM`
-*   **Core Repository:** [Recursive-Logic-Core](https://github.com/Recursive-Logic-Core)
+* **Email:** arch_mmm@proton.me
+* **Hacker News:** ArchMMM
