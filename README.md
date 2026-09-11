@@ -32,7 +32,7 @@ Architect M.M.M. is an independent structural research and architecture core ded
 
 *   **[Recursive-Logic-Core / architecture-index](https://github.com/Recursive-Logic-Core/architecture-index)**
     *   `Tier-1 Baseline Utilities` — Minimal public reference implementations: **SLAP** ($O(N)$ state protocol) & **DriftBreak** (local VRAM governor).
-    *   `Tier-2 Heavy Blueprints` — Proprietary enterprise frameworks: **V.A.R.I.A.** (context governor) & **OOMP** (zero-DOM protocol)[cite: 1].
+    *   `Tier-2 Heavy Blueprints` — Proprietary enterprise frameworks: **V.A.R.I.A.** (context governor) & **OOMP** (zero-DOM protocol).
     *   `Deployment Policy` — Core specifications and blueprints tailored strictly on-site via Full-Time Employment (FTE).
 
 ---
