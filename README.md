@@ -52,7 +52,10 @@ Designed specifically for **Enterprise Engineering Teams, AI Evaluation Labs, an
 ---
 
 ### Contact & Inquiries
-Open for 100% Remote Full-Time Employment (FTE via EOR / Germany-compliant) in AI Systems Architecture, Core Logic & Verification Layers.
 
-* **Email:** arch_mmm@proton.me
-* **Hacker News:** ArchMMM
+Open for **100% Remote Full-Time Employment (FTE via EOR / Germany-compliant)** in AI Systems Architecture, Core Logic & Verification Layers.
+
+* **Engineering Briefings:** `arch_mmm@proton.me`
+* **Network & Discussion:** [Hacker News (`ArchMMM`)](https://news.ycombinator.com/user?id=ArchMMM)
+
+> *Initial confidential briefings require no polished RFP. Submit high-level problem parameters, document scale, and system constraints. Feasibility evaluation is provided asynchronously.*
