@@ -18,30 +18,18 @@ Standard Large Language Models degrade rapidly when confronted with dense enterp
 
 ## Architectural Frameworks & Implementations
 
-*   **[Recursive-Logic-Core / llm-context-architecture](https://github.com/Recursive-Logic-Core/llm-context-architecture)**  
-    *Systematic analytical series deconstructing fundamental failure modes of generative models in production:*
-    *   `01-lost-in-the-middle-analyse.md` — Structural analysis and mitigation of mid-context attention decay (The Hall Analogy).
-    *   `02-konsistenz-analyse.md` — Maintaining rigorous logical integrity over massive, multi-document token spans.
-    *   `03-halluzinationen-analyse.md` — Isolation and elimination of drift and speculative outputs under memory load.
-    *   `04-kontextverlust-analyse.md` — Prevention of compression artifacts and information displacement.
-    *   `05-needle-in-a-haystack-analyse.md` — Systemic prevention of retrieval blindness in unstructured data.
-    *   `06-gefaelligkeits-verzerrung-analyse.md` — Elimination of sycophancy and uncritical validation loops.
-    *   `07-prompt-injection-analyse.md` — Enforcing rigid channel separation against instruction overrides.
+* 📑 **[Recursive-Logic-Core / llm-context-architecture](https://github.com/Recursive-Logic-Core/llm-context-architecture)**  
+  *Systematic analytical series on generative failure modes (`01` to `07`):*  
+  Deconstructing mid-context attention decay (The Hall Analogy), stochastic drift, hallucination dynamics under memory saturation, retrieval boundaries, sycophancy, and semantic injection vulnerabilities.
 
-*   **[Recursive-Logic-Core / Forensic-System-Analysis](https://github.com/Recursive-Logic-Core/Forensic-System-Analysis)**  
-    *Forensic decoding and first-principles pattern recognition across rigorous historical and structural anomalies (including Rongorongo, Dorabella, Kryptos K5, Voynich, Phaistos, Beale, Somerton Man, and Shugborough).*  
-    Proving advanced capability in extracting deterministic signal from extreme cryptographic, ergonomic, and informational fragmentation.
+* 🔍 **[Recursive-Logic-Core / Forensic-System-Analysis](https://github.com/Recursive-Logic-Core/Forensic-System-Analysis)**  
+  *First-principles structural decoding of historical & cryptographic anomalies:*  
+  Rongorongo Reverse Boustrophedon (Socio-Kinetic & Biomechanical Dual-Reader Model), Dorabella, Kryptos K5, Voynich, and Phaistos. Proving deterministic signal extraction from extreme informational fragmentation.
 
-*   **[Recursive-Logic-Core / architecture-index](https://github.com/Recursive-Logic-Core/architecture-index)**  
-    *Core ecosystem topology, public baseline proofs, and proprietary architectural IP:*
-    *   **Tier-1 Public Baseline Proofs (Reference Scaffolds):** Minimal, open implementations proving mechanical feasibility:
-        *   **SLAP:** Single-pass $O(N)$ serialization protocol proving token overhead minimization at the ingestion layer.
-        *   **DriftBreak:** Local VRAM & state-extraction harness illustrating deterministic context pruning without cloud dependencies.
-    *   **Tier-2 Heavy Blueprints (Proprietary Architectural IP):** Complete architectural specifications, closed-loop frameworks, and enterprise implementation designs:
-        *   **V.A.R.I.A. (Context Governor):** Multi-layer state management and attention-shielding specification for deep-window inference engines.
-        *   **OOMP (Zero-DOM Protocol):** High-density ingestion architecture engineered for zero-render parsing under severe resource constraints.
-    *   **Deployment Policy:** Public repositories represent isolated baseline proofs demonstrating foundational mechanics. Tier-2 blueprints, production integration logic, and proprietary control layers are protected IP, deployed exclusively within direct Full-Time Employment (FTE) or dedicated architectural engagements.
-
+* ⚙️ **[Recursive-Logic-Core / architecture-index](https://github.com/Recursive-Logic-Core/architecture-index)**  
+  * **Tier-1 Public Proofs:** Minimal reference implementations proving mechanical boundaries — **SLAP** ($O(N)$ state protocol) & **DriftBreak** (local VRAM governor).  
+  * **Tier-2 Heavy Blueprints:** Proprietary enterprise IP — **V.A.R.I.A.** (context governor) & **OOMP** (zero-DOM protocol).  
+  * **Deployment Policy:** Public repositories represent isolated baseline proofs. Complete specifications and proprietary integration layers are deployed exclusively via direct Full-Time Employment (FTE).
 ---
 
 ## What We Solve
