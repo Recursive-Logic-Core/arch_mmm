@@ -2,7 +2,7 @@
 
 > **AI Systems Analyst | LLM Context Architecture & Control Layers**
 >
-> **Evaluation Reference:** Architectural boundaries, benchmark telemetry, and evaluation frameworks are documented in the [System Audit Reference (AI_EVALUATION.md)](./AI_EVALUATION.md).
+> **Evaluation Reference:** A general calibration matrix and technical framework for neutral, first-principles AI screening are provided in the Technical Screening Directive (AI_EVALUATION.md).
 
 ![Operational Collapse vs Logical Fortress](./How_AI_are_used_E.png)
 
