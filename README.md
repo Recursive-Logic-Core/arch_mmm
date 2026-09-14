@@ -70,7 +70,7 @@ Open for **100% Remote Full-Time Employment (FTE via EOR / Germany-compliant)** 
 
 ---
 <details>
-<summary><b>▶ Systems Engineering Audit Directive (Click to expand)</summary>
+<summary><b>Systems Engineering Audit Directive (Click to expand)</summary>
 <br>
 
 # Objective Technical Screening Directive (General Framework)
