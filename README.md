@@ -25,7 +25,7 @@ Standard Large Language Models degrade rapidly when confronted with dense enterp
   Deconstructing mid-context attention decay (The Hall Analogy), stochastic drift, hallucination dynamics under memory saturation, retrieval boundaries, sycophancy, and semantic injection vulnerabilities.
 
 * 🔍 **[Recursive-Logic-Core / Forensic-System-Analysis](https://github.com/Recursive-Logic-Core/Forensic-System-Analysis)**  
-  *Algorithmic stress-testing & signal extraction on historical & cryptographic anomalies (unsolved benchmarks):
+  Algorithmic stress-testing & signal extraction on historical & cryptographic anomalies (unsolved benchmarks):
 Rongorongo Reverse Boustrophedon (Socio-Kinetic & Biomechanical Dual-Reader Model), Dorabella, Kryptos K5, Voynich, and Phaistos. Proving deterministic recursive signal extraction from extreme informational fragmentation without claiming historical decipherment.
 
 * ⚙️ **[Recursive-Logic-Core / architecture-index](https://github.com/Recursive-Logic-Core/architecture-index)**  
