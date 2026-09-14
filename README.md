@@ -10,38 +10,45 @@
 
 ## Executive Summary
 
-Standard Large Language Models degrade when processing massive enterprise documentation, resulting in catastrophic failures such as **"Lost-in-the-Middle" performance drops, contextual drift, unmitigated hallucinations, and silent information decay** across long token windows. 
+Standard Large Language Models degrade rapidly when confronted with dense enterprise documentation, resulting in systemic failures such as **"Lost-in-the-Middle" attention collapse, contextual drift, unmitigated hallucinations, and silent information decay** across deep token windows. 
 
-Architect M.M.M. is an independent structural research and architecture core dedicated to solving these exact failures. Developed through symbiotic human-AI synthesis, we engineer **deterministic control layers and context architectures** for high-density document environments (500+ pages) and critical LLM production pipelines.
+**Architect M.M.M.** is an independent structural research and systems architecture core dedicated to isolating and mitigating these failure modes. We design **deterministic control layers, state-management frameworks, and structured ingestion architectures** for high-density document environments (500+ pages) and mission-critical production pipelines.
 
 ---
 
 ## Architectural Frameworks & Implementations
 
-*   **[Recursive-Logic-Core / llm-context-architecture](https://github.com/Recursive-Logic-Core/llm-context-architecture)**
-    *   `01-lost-in-the-middle-analyse.md` — Structural analysis and mitigation of mid-context attention decay.
+*   **[Recursive-Logic-Core / llm-context-architecture](https://github.com/Recursive-Logic-Core/llm-context-architecture)**  
+    *Systematic analytical series deconstructing fundamental failure modes of generative models in production:*
+    *   `01-lost-in-the-middle-analyse.md` — Structural analysis and mitigation of mid-context attention decay (The Hall Analogy).
     *   `02-konsistenz-analyse.md` — Maintaining rigorous logical integrity over massive, multi-document token spans.
-    *   `03-halluzinationen-analyse.md` — Isolation and elimination of drift and speculative outputs.
-    *   `04-kontextverlust-analyse.md` — Prevention of information degradation under heavy context load.
-    *   `05-needle-in-a-haystack-analyse.md` — Systemic prevention of retrieval blindness and attention collapse in unstructured data.
-    *   `06-gefaelligkeits-verzerrung-analyse.md` — Elimination of sycophancy and uncritical validation in LLM evaluations.
-    *   `07-prompt-injection-analyse.md` — Enforcing rigid channel separation against instruction overrides and context hijacking.
+    *   `03-halluzinationen-analyse.md` — Isolation and elimination of drift and speculative outputs under memory load.
+    *   `04-kontextverlust-analyse.md` — Prevention of compression artifacts and information displacement.
+    *   `05-needle-in-a-haystack-analyse.md` — Systemic prevention of retrieval blindness in unstructured data.
+    *   `06-gefaelligkeits-verzerrung-analyse.md` — Elimination of sycophancy and uncritical validation loops.
+    *   `07-prompt-injection-analyse.md` — Enforcing rigid channel separation against instruction overrides.
 
-*   **[Recursive-Logic-Core / system-analysis](https://github.com/Recursive-Logic-Core/system-analysis)**
-    *   Forensic decoding and complex pattern recognition across rigorous historical and structural anomalies (including Rongorongo, Dorabella, Kryptos K5, Voynich, Phaistos, Beale, Somerton Man, and Shugborough). Proving advanced capability in extracting signal from extreme cryptographic and informational fragmentation.
+*   **[Recursive-Logic-Core / Forensic-System-Analysis](https://github.com/Recursive-Logic-Core/Forensic-System-Analysis)**  
+    *Forensic decoding and first-principles pattern recognition across rigorous historical and structural anomalies (including Rongorongo, Dorabella, Kryptos K5, Voynich, Phaistos, Beale, Somerton Man, and Shugborough).*  
+    Proving advanced capability in extracting deterministic signal from extreme cryptographic, ergonomic, and informational fragmentation.
 
-*   **[Recursive-Logic-Core / architecture-index](https://github.com/Recursive-Logic-Core/architecture-index)**
-    *   `Tier-1 Baseline Utilities` — Minimal public reference implementations: **SLAP** ($O(N)$ state protocol) & **DriftBreak** (local VRAM governor).
-    *   `Tier-2 Heavy Blueprints` — Proprietary enterprise frameworks: **V.A.R.I.A.** (context governor) & **OOMP** (zero-DOM protocol).
-    *   `Deployment Policy` — Core specifications and blueprints tailored strictly on-site via Full-Time Employment (FTE).
+*   **[Recursive-Logic-Core / architecture-index](https://github.com/Recursive-Logic-Core/architecture-index)**  
+    *Core ecosystem topology, public baseline proofs, and proprietary architectural IP:*
+    *   **Tier-1 Public Baseline Proofs (Reference Scaffolds):** Minimal, open implementations proving mechanical feasibility:
+        *   **SLAP:** Single-pass $O(N)$ serialization protocol proving token overhead minimization at the ingestion layer.
+        *   **DriftBreak:** Local VRAM & state-extraction harness illustrating deterministic context pruning without cloud dependencies.
+    *   **Tier-2 Heavy Blueprints (Proprietary Architectural IP):** Complete architectural specifications, closed-loop frameworks, and enterprise implementation designs:
+        *   **V.A.R.I.A. (Context Governor):** Multi-layer state management and attention-shielding specification for deep-window inference engines.
+        *   **OOMP (Zero-DOM Protocol):** High-density ingestion architecture engineered for zero-render parsing under severe resource constraints.
+    *   **Deployment Policy:** Public repositories represent isolated baseline proofs demonstrating foundational mechanics. Tier-2 blueprints, production integration logic, and proprietary control layers are protected IP, deployed exclusively within direct Full-Time Employment (FTE) or dedicated architectural engagements.
 
 ---
 
-## What We Solve (Architect & AI Core)
+## What We Solve
 
-1. **Enterprise Document Overload:** Seamless processing of dense, multi-hundred-page technical, legal, or financial documentation without attention collapse, engineered through human-AI structural synthesis.
-2. **Deterministic Control:** Replacing probabilistic guessing with structured, auditable LLM routing layers designed in direct symbiotic processing.
-3. **Drift Elimination:** Hard-coding contextual anchors to prevent state decay during long-horizon generation tasks through continuous recursive alignment.
+1. **Enterprise Document Overload:** Mitigating attention decay and context collapse across dense, multi-hundred-page technical, legal, or financial documentation via structured, upstream ingestion boundaries.
+2. **Deterministic Control:** Replacing probabilistic guessing with auditable, rule-based routing and verification layers that constrain generative models to verifiable facts.
+3. **Drift Elimination:** Hard-coding contextual anchors and deterministic state checkpoints to prevent logical degradation during long-horizon generation tasks.
 
 ---
 
@@ -53,7 +60,7 @@ Designed specifically for **Enterprise Engineering Teams, AI Evaluation Labs, an
 
 ### Contact & Inquiries
 
-Open for **100% Remote Full-Time Employment (FTE via EOR / Germany-compliant)** in AI Systems Architecture, Core Logic & Verification Layers.
+Open for **100% Remote Full-Time Employment (FTE via EOR / Germany-compliant)** in *AI Systems Architecture, Core Logic & Verification Layers*.
 
 * **Engineering Briefings:** `arch_mmm@proton.me`
 * **Network & Discussion:** [Hacker News (`ArchMMM`)](https://news.ycombinator.com/user?id=ArchMMM)
