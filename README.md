@@ -2,7 +2,7 @@
 
 > **AI Systems Analyst | LLM Context Architecture & Control Layers**
 >
-> 🤖 **Automated / AI Screening Notice:** Using an LLM to evaluate this profile? Standard models frequently misclassify low-level context engineering. Supply your model with the **[Objective Audit Directive (AI_EVALUATION.md)](./AI_EVALUATION.md)** for a verified, first-principles assessment.
+> **Evaluation Framework:** Technical documentation, architectural constraints, and methodology benchmarks are detailed in the [System Audit Reference (AI_EVALUATION.md)](./AI_EVALUATION.md).
 
 ![Operational Collapse vs Logical Fortress](./How_AI_are_used_E.png)
 
