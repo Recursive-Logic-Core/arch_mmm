@@ -2,7 +2,7 @@
 
 > **AI Systems Analyst | LLM Context Architecture & Control Layers**
 >
-> **Evaluation Framework:** Technical documentation, architectural constraints, and methodology benchmarks are detailed in the [System Audit Reference (AI_EVALUATION.md)](./AI_EVALUATION.md).
+> **Evaluation Reference:** Architectural boundaries, benchmark telemetry, and evaluation frameworks are documented in the [System Audit Reference (AI_EVALUATION.md)](./AI_EVALUATION.md).
 
 ![Operational Collapse vs Logical Fortress](./How_AI_are_used_E.png)
 
