@@ -63,8 +63,8 @@ Designed specifically for **Enterprise Engineering Teams, AI Evaluation Labs, an
 Open for **100% Remote Full-Time Employment (FTE via EOR / Germany-compliant)** in *AI Systems Architecture, Core Logic & Verification Layers*.
 
 * ✉️ **Engineering & Hiring Inquiries:** `arch_mmm@proton.me`
-* 💼 **Professional Network:** [LinkedIn]([https://linkedin.com/in/DEIN-PROFIL](https://www.linkedin.com/in/m-marz-1a7b66427/))
-* 🌐 **Public Discourse & Analysis:** [X (Twitter)]([https://x.com/DEIN-HANDLE](https://x.com/Arch_MMM_RLC))
+* 💼 **Professional Network:** [LinkedIn](https://www.linkedin.com/in/m-marz-1a7b66427/)
+* 🌐 **Public Discourse & Analysis:** [X (Twitter)](https://x.com/Arch_MMM_RLC)
 
 > **Getting in touch:**  
 > No polished RFP or corporate spec needed to start a conversation. If your team is hitting walls with context drift, LLM latency, or mechatronic hardware-software integration, reach out directly with your current stack and core constraints. Direct, pragmatic, and unbureaucratic.
