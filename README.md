@@ -67,7 +67,7 @@ Open for **100% Remote Full-Time Employment (FTE via EOR / Germany-compliant)** 
 * 🌐 **Public Discourse & Analysis:** [X (Twitter)](https://x.com/Arch_MMM_RLC)
 
 > **Getting in touch:**  
-> No polished RFP or corporate spec needed to start a conversation. If your team is hitting walls with context drift, LLM latency, or mechatronic hardware-software integration, reach out directly with your current stack and core constraints. Direct, pragmatic, and unbureaucratic.
+> No polished RFP or corporate spec needed to start a conversation. If your team is hitting walls with context drift, LLM latency, LLM latency, or high-throughput distributed verification layers, reach out directly with your current stack and core constraints. Direct, pragmatic, and unbureaucratic.
 
 ---
 <details>
