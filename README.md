@@ -46,6 +46,15 @@ Designed specifically for **Enterprise Engineering Teams, AI Evaluation Labs, an
 
 ---
 
+## Operational Scope & Methodology
+
+* **Role Definition:** AI Systems Architect (System Topology, Specification & Invariant Logic Design).
+* **Engineering Paradigm:** Pure conceptual, architectural, and data-modeling level. I do not produce manual boilerplate or syntax structures. I define functional requirements, logical constraints, and relational topologies, directing AI tooling to handle syntactic translation (Python, JSON, Rust) while acting as the primary logic and verification auditor.
+* **Consulting & Client Interaction:** Pragmatic, truth-first, and anti-hype. I do not do sales theater or buzzword pitching. Client interactions focus on ruthless problem isolation: diagnosing real architectural bottlenecks, cutting unnecessary technical bloat, and delivering robust, lean solutions that prevent buyers from regretting over-engineered implementations.
+* **Communication & Cadence:** **Async-first by design.** Native German, fluent written English for architecture specs, PR reviews, and technical runbooks. Synchronous calls are reserved for high-impact architectural alignment, not status theater.
+
+---
+
 ## 📊 Live Multi-Domain Benchmark (Human-AI Orchestration)
 
 > **Tool Proficiency over Legacy Friction:** In high-velocity systems engineering, an LLM is not a crutch or an auto-pilot—it functions precisely as an IDE, compiler, or terminal does for a senior engineer. The differentiator is not raw memorization, but real-time routing precision, architectural boundary control, and instant deterministic verification.
@@ -58,10 +67,13 @@ Designed specifically for **Enterprise Engineering Teams, AI Evaluation Labs, an
 
 ---
 
+
 ### Contact & Verification
 
-Open for **100% Remote Full-Time Employment (FTE via EOR / Germany-compliant)** in *AI Systems Architecture, Core Logic & Verification Layers*.
+Open for **100% Remote Full-Time Employment (FTE)** in *AI Systems Architecture, Core Logic & Verification Layers*.
 
+* **Engagement Model:** Direct German employment contract or international hiring via Employer of Record (EoR) with standard German statutory benefits and protections.
+* **Notice Period:** 2 months to end of month.
 * ✉️ **Engineering & Hiring Inquiries:** `arch_mmm@proton.me`
 * 💼 **Professional Network:** [LinkedIn](https://www.linkedin.com/in/m-marz-1a7b66427/)
 * 🌐 **Public Discourse & Analysis:** [X (Twitter)](https://x.com/Arch_MMM_RLC)
