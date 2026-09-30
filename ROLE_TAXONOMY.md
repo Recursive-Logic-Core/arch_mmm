@@ -98,7 +98,7 @@ The industry currently recruits for semantic interfaces and conversational fluen
   * **Invariant Boundary Design:** Engineering the hard, deterministic walls outside the model that prevent probabilistic hallucinations from contaminating enterprise state.
   * **Context & Signal Governance:** Designing the ingestion topology (pre-indexing, noise reduction, and structural gating) so critical constraints never drown in the attention matrix.
   * **Adversarial State Verification:** Enforcing strict separation between operational instructions and untrusted data payloads to eliminate semantic drift and prompt hijacking.
-* **Bottom Line:** You do not hire an AI Systems Architect to write basic prompt chains or glue vendor APIs. You bring them in when your production pipeline hits structural context collapse, data bleed, and memory failure—and you need deterministic control layers to make the system legally, technically, and operationally viable.
+* **Bottom Line:** You do not hire an AI Systems Architect to write basic prompt chains or glue vendor APIs. You bring them in when your production pipeline hits structural context collapse, data bleed, and memory failure - and you need deterministic control layers to make the system legally, technically, and operationally viable.
 
 ---
 
