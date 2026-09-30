@@ -87,5 +87,20 @@ The industry currently recruits for semantic interfaces and conversational fluen
 
 ---
 
+## Part III: The Missing Layer — AI Systems Architecture
+
+*Why standard engineering teams still face catastrophic failure modes despite top-tier coders and data scientists.*
+
+### 5. "AI Systems Architect / Context & Invariant Control"
+* **The Industry Blind Spot:** Enterprises assume software engineers or data scientists can inherently handle generative systems by default. They treat LLMs like deterministic microservices, expecting code syntax to fix probabilistic entropy.
+* **The Structural Reality:** Software engineers build pipelines; data scientists train weights. Neither layer addresses runtime context topology, attention collapse, or state drift across deep token horizons.
+* **What This Role Delivers:**
+  * **Invariant Boundary Design:** Engineering the hard, deterministic walls outside the model that prevent probabilistic hallucinations from contaminating enterprise state.
+  * **Context & Signal Governance:** Designing the ingestion topology (pre-indexing, noise reduction, and structural gating) so critical constraints never drown in the attention matrix.
+  * **Adversarial State Verification:** Enforcing strict separation between operational instructions and untrusted data payloads to eliminate semantic drift and prompt hijacking.
+* **Bottom Line:** You do not hire an AI Systems Architect to write basic prompt chains or glue vendor APIs. You bring them in when your production pipeline hits structural context collapse, data bleed, and memory failure—and you need deterministic control layers to make the system legally, technically, and operationally viable.
+
+---
+
 *Architect M.M.M. | Recursive-Logic-Core*  
 *Licensed under CC BY 4.0*
