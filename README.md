@@ -35,6 +35,15 @@ Standard Large Language Models degrade rapidly when confronted with dense enterp
 
 ---
 
+### 🧭 Industry Taxonomy & Failure Mode Mapping
+A structural audit layer deconstructing the gap between recruitment jargon, common candidate misalignments, and actual system failure boundaries:
+* **The Role Identity Crisis:** Why hiring for "Prompt Engineers" or pipeline-gluers fails to solve enterprise state drift, attention collapse, and prompt injection.
+* **The Missing Architecture Layer:** Why mission-critical production requires deterministic boundary control rather than conversational politeness.
+
+👉 **[Read the Full Industry Breakdown & Role Taxonomy (ROLE_TAXONOMY.md)](./ROLE_TAXONOMY.md)**
+
+---
+
 ## What We Solve
 
 1. **Enterprise Document Overload:** Mitigating attention decay and context collapse across dense, multi-hundred-page technical, legal, or financial documentation via structured, upstream ingestion boundaries.
