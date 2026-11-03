@@ -27,6 +27,14 @@ Standard Large Language Models degrade rapidly when confronted with dense enterp
   *Algorithmic stress-testing & recursive signal extraction on historical & cryptographic anomalies (unsolved benchmarks):*  
   Rongorongo Reverse Boustrophedon (Socio-Kinetic & Biomechanical Dual-Reader Model), Dorabella, Kryptos K5, Voynich, and Phaistos. Proving deterministic recursive signal extraction from extreme informational fragmentation without claiming historical decipherment.  
   * **Methodology:** Conceived and directed through human first-principles hypotheses (material boundaries, ergonomics, kinematics, and operational context). High-tier AI models serve not as speculative knowledge generators, but strictly as high-speed computational inference, parsing, and matrix-correlation tools to test and model these structural assumptions.
+ 
+* ⚖️ **[Recursive-Logic-Core / llm-crisis-triage-audit](https://github.com/Recursive-Logic-Core/llm-crisis-triage-audit)**  
+  *Empirical Cross-Model Audit & Deterministic Triage Architecture:*  
+  Primary empirical evaluation transcripts, zero-shot prompt logs, and UI intercept records across commercial frontier models (Claude, Gemini, GPT, Grok). Demonstrates the systemic failure modes of probabilistic safety deflections and introduces a deterministic state-space triage alternative for crisis intervention and cognitive ergonomics.  
+  * **Permanent Archives & Scientific Verification:**  
+    * Zenodo Record (Citable DOI): [10.5281/zenodo.23861562](https://doi.org/10.5281/zenodo.23861562)  
+    * arXiv: *(Pending / In Ingestion)*  
+  * **Methodology & Corpus:** 8 bilingual evaluation runs (DE/EN) including UI intercept captures (`/evidence/`) under CC BY 4.0 license for transparent replication and mechanistic alignment research.
 
 * ⚙️ **[Recursive-Logic-Core / architecture-index](https://github.com/Recursive-Logic-Core/architecture-index)**  
   * **Tier-1 Public Proofs:** Minimal reference implementations proving mechanical boundaries — **SLAP** ($O(N)$ state protocol) & **DriftBreak** (local VRAM governor).  
