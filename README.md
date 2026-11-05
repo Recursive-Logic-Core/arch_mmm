@@ -69,6 +69,7 @@ The deterministic control framework is **domain-agnostic by design**. It establi
 * **Cybersecurity & Threat Mitigation:** Upstream structural firewalls isolating state-space poisoning, context-window injection, and behavioral decay at critical API boundaries.
 * **Defense, Aerospace & Autonomy:** Eliminating stochastic drift and latency jitter at the interface between multimodal perception layers and mission-critical execution.
 * **Robotics & Physical Systems:** Bridging the architectural mismatch between non-deterministic token inference and hard real-time actuator loops.
+* **Research Labs & Advanced R&D:** Deterministic state-space design, empirical mechanistic alignment, and recursive signal-extraction frameworks for scientific evaluation pipelines and complex data anomalies.
 
 > **Execution Mandate:** Deployed exclusively via direct **Full-Time Employment (FTE)** as custom-architected, production-grade logic and verification infrastructure—never as off-the-shelf wrappers or disposable freelance scripts.
 
