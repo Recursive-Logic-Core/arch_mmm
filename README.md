@@ -38,7 +38,7 @@ Standard Large Language Models degrade rapidly when confronted with dense enterp
 
 * ⚙️ **[Recursive-Logic-Core / architecture-index](https://github.com/Recursive-Logic-Core/architecture-index)**  
   * **Tier-1 Public Proofs:** Minimal reference implementations proving mechanical boundaries — **SLAP** ($O(N)$ state protocol) & **DriftBreak** (local VRAM governor).  
-  * **Tier-2 Heavy Blueprints:** Proprietary enterprise IP — **V.A.R.I.A.** (context governor) & **OOMP** (zero-DOM protocol).  
+  * **Tier-2 Heavy Blueprints:** Proprietary enterprise IP — **V.A.R.I.A.** (context governor), **O.O.M.P.** (zero-DOM protocol), **C.O.N.T.U.R.** (vision runtime), **T.E.N.E.T.** (financial mutex barrier) & **A.S.P.I.S.** (adversarial isolation).  
   * **Deployment Policy:** Public repositories represent isolated baseline proofs. Complete specifications and proprietary integration layers are deployed exclusively via direct Full-Time Employment (FTE).
 
 ---
