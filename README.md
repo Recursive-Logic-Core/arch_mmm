@@ -37,7 +37,7 @@ Standard Large Language Models degrade rapidly when confronted with dense enterp
  * **Methodology & Corpus:** 8 independent evaluation runs across 4 frontier models (4 DE / 4 EN) including UI intercept captures under CC BY 4.0 license for transparent replication, attribution, and mechanistic alignment research.
 
 * ⚙️ **[Recursive-Logic-Core / architecture-index](https://github.com/Recursive-Logic-Core/architecture-index)**  
-  * **Tier-1 Public Proofs:** Minimal reference implementations proving mechanical boundaries — **S.L.A.P.** ($O(N)$ state protocol) & **DriftBreak** (local VRAM governor).  
+  * **Tier-1 Public Proofs:** Minimal reference implementations proving mechanical boundaries — **S.L.A.P.** ($O(N)$ state protocol, published on PyPI) & **DriftBreak** (local VRAM governor).  
   * **Tier-2 Heavy Blueprints:** Proprietary enterprise IP — **V.A.R.I.A.** (context governor), **O.O.M.P.** (zero-DOM protocol), **C.O.N.T.U.R.** (vision runtime), **T.E.N.E.T.** (financial mutex barrier) & **A.S.P.I.S.** (adversarial isolation).  
   * **Deployment Policy:** Public repositories represent isolated baseline proofs. Complete specifications and proprietary integration layers are deployed exclusively via direct Full-Time Employment (FTE).
 
@@ -95,8 +95,8 @@ Designed specifically for **Enterprise Engineering Teams, AI Evaluation Labs, an
 > **The Power of Symbiotic Tandem Execution:** In high-velocity systems engineering, an LLM is not a crutch or an auto-pilot—it functions precisely as an IDE, compiler, or terminal does for a senior engineer. These benchmarks do not reflect isolated human recall or autonomous model script-execution. They represent verified empirical telemetry of a synchronized **Human-AI Tandem Core**: Human cognitive direction, invariant constraint design, and spatial reasoning coupled directly with real-time AI processing speed and instant deterministic verification.
 
 * **Verified Live Test Battery:** Standardized TestGorilla assessment under strict 12-minute real-time execution limits per module.
-* **Performance Metrics:** **Top 1% to Top 4% (96th–99th percentile)** across Artificial Intelligence, Infrastructure as Code (Terraform), Software Architecture, Microsoft Azure, and Technical Communication.
-* **Architectural Telemetry:** High-abstraction software and cloud topologies resolved with up to **56% time surplus**; execution latency dominated purely by physical ingress constraints (manual multimodal data routing) rather than cognitive bottleneck.
+* **Performance Metrics:** **Top 1% to Top 4% (96th–99th percentile)** across Artificial Intelligence, Software Architecture, and Technical Communication (including cold stress-test validation on unfamiliar cloud/IaC domains—without operating as a DevOps/Cloud engineer).
+* **Architectural Telemetry:** High-abstraction system topologies and logical constraints resolved with up to **56% time surplus**; execution latency dominated purely by physical ingress constraints (manual multimodal data routing) rather than cognitive bottleneck.
 
 👉 **[View Full Empirical Telemetry & Verified Test Certificates (BENCHMARK.md)](./BENCHMARK.md)**
 
