@@ -83,7 +83,7 @@ Designed specifically for **Enterprise Engineering Teams, AI Evaluation Labs, an
 
 ## Operational Scope & Methodology
 
-* **Role Definition:** AI Systems Architect (System Topology, Specification & Invariant Logic Design).
+* **Role Definition:** AI-Originator (Causal Systems Auditor & Deterministic Control Designer — operating as a calibrated Human-AI Tandem).
 * **Engineering Paradigm:** Pure conceptual, architectural, and data-modeling level. I do not produce manual boilerplate or syntax structures. I define functional requirements, logical constraints, and relational topologies, directing AI tooling to handle syntactic translation (Python, JSON, Rust) while acting as the primary logic and verification auditor.
 * **Consulting & Client Interaction:** Pragmatic, truth-first, and anti-hype. I do not do sales theater or buzzword pitching. Client interactions focus on ruthless problem isolation: diagnosing real architectural bottlenecks, cutting unnecessary technical bloat, and delivering robust, lean solutions that prevent buyers from regretting over-engineered implementations.
 * **Communication & Cadence:** **Async-first by design.** Native German, fluent written English for architecture specs, PR reviews, and technical runbooks. Synchronous calls are reserved for high-impact architectural alignment, not status theater.
