@@ -32,7 +32,7 @@ Standard Large Language Models degrade rapidly when confronted with dense enterp
   *Empirical Cross-Model Audit & Deterministic Triage Architecture:*  
   Primary empirical evaluation transcripts, zero-shot prompt logs, and UI intercept records across commercial frontier models (Claude, Gemini, GPT, Grok). Demonstrates the systemic failure modes of probabilistic safety deflections and introduces a deterministic state-space triage alternative for crisis intervention and cognitive ergonomics.  
   * **Permanent Archives & Scientific Verification:**  
-    * Zenodo Record (Citable DOI): [10.5281/zenodo.23886898](https://doi.org/10.5281/zenodo.23861561)  
+    * Zenodo Record (Citable DOI): [10.5281/zenodo.23861561](https://doi.org/10.5281/zenodo.23861561)  
     * arXiv: *(Pending / In Ingestion)*  
  * **Methodology & Corpus:** 8 independent evaluation runs across 4 frontier models (4 DE / 4 EN) including UI intercept captures under CC BY 4.0 license for transparent replication, attribution, and mechanistic alignment research.
 
